@@ -3,7 +3,7 @@ os: linux
 files:
   - source: /index.html
     destination: /var/www/html/
-  - source: AppLogic/test
+  - source: AppLogic/test.txt
     destination: /var/www/html/
     
     
