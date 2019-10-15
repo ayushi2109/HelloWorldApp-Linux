@@ -1,3 +1,5 @@
 #!/bin/bash
 echo "apt-get install nginx -y"
+cd /opt/codedeploy-agent/deployment-root/deployment-instructions/
+rm -rf $(cat $DEPLOYMENT_GROUP_ID-cleanup)
 rm -rf AppLogic
