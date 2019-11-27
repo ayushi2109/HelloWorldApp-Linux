@@ -1,4 +1,4 @@
-# This is a sample app to test CodeDeploy.
+# This is a sample app to test AWS CodeDeploy.
  
  
  You can use this to test the deployments made by CodeDeploy to set up the environment. And when you are comfortable with deploying this sample app, it will be easy for you to Deploy your production app.
